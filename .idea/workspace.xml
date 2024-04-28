@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe40dbb0-8f0d-4c10-b920-c482bf5b4fe4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/QGIS 4 Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.VERSION.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.cpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.prj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ne_10m_airports/ne_10m_airports.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readData.py" beforeDir="false" afterPath="$PROJECT_DIR$/readData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +38,15 @@
     "Python.readData.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Ajay/PycharmProjects/QGIS-4-Python"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ajay\PycharmProjects\QGIS-4-Python" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="readData" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="QGIS 4 Python" />

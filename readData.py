@@ -1,16 +1,18 @@
 import os
 
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 # Get the active layer in QGIS
 layer = iface.activeLayer()
 
 # File name for the output text file
 output_file_name = 'airports.txt'
 
-# Define the directory path for the Downloads folder
-downloads_dir = os.path.expanduser('~\\Downloads')
-
 # Combine directory path and file name to get the full output file path
-output_file_path = os.path.join(downloads_dir, output_file_name)
+output_file_path = os.path.join(script_dir, output_file_name)
+
+print("Output file path:", output_file_path)  # Print the output file path
 
 # Open the output file in write mode
 with open(output_file_path, 'w') as file:
