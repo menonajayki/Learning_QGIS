@@ -1,0 +1,1 @@
+# The repo is built with a purpose of learning qgis through python
