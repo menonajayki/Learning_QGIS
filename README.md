@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to use Python scripting in QGIS to extract airport data from a shapefile and save it to a text file. It's a beginner-friendly introduction to Python scripting in QGIS.
+How to use Python scripting in QGIS to extract airport data from a shapefile and save it to a text file.
 
 ## How to Use
 
